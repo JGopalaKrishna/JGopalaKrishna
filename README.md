@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?JGopalaKrishna=YourGitHubUsername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JGopalaKrishna&show_icons=true&theme=dark)
 
 ## 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JGopalaKrishna=YourGitHubUsername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGopalaKrishna&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 good
