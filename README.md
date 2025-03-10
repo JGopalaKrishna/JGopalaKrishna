@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
